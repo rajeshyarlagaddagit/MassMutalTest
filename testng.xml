@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="false" name="mmtest">
+  <test name="MassMutal- Verify Amounts and Total Balance">
+    <classes>
+      <class name="com.massmutualtest.tests.TestRunner"/>
+    </classes>
+  </test>
+</suite>
